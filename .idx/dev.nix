@@ -9,6 +9,8 @@
     pkgs.yarn
     pkgs.nodePackages.pnpm
     pkgs.bun
+    pkgs.inetutils
+    pkgs.pdftk
   ];
   # Sets environment variables in the workspace
   env = {};

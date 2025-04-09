@@ -58,13 +58,13 @@ const Calculator = () => {
               }`}
             >
               {button === "+" 
-                ? "😼 +" 
+                ? ":-) +" 
                 : button === "-" 
                   ? "😼 -" 
                   : button === "*" 
                     ? "😼 *" 
                     : button === "/" 
-                ? "😼"
+                ? "😼 /"
                 : button}
             </button>
           )
